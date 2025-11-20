@@ -1,0 +1,41 @@
+<style>
+
+    a#header-link{
+        background-color: white;
+        text-decoration: none;
+        color: rgb(161, 70, 210);
+    }
+
+    body {
+        background-color: rgb(203, 229, 255);
+    }
+
+    main {
+    width: 50%;           
+    margin-left: 0;       
+    margin-right: auto;   
+    padding: 20px;        
+    line-height: 1.6;    
+}
+    .right-img{
+        float: right;
+        margin-left: 20px;
+        margin-bottom: 10px; 
+    }
+
+    .page-header {
+        text-align:center;
+        font-size: large;
+        margin-top: 20px;
+    }
+
+    .cat_background {
+        background-image: url("https://i.pinimg.com/736x/25/0e/9f/250e9f40d2477b171c1391f8284ed766.jpg");
+        background-size: cover;
+    }
+
+    .blue-background{
+        background-color: rgb(87, 107, 182);
+        color: white
+    }
+</style>
